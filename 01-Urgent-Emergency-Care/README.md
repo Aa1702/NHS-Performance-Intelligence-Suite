@@ -11,7 +11,7 @@ To demonstrate end-to-end data capabilities—from **SQL ETL & Logic** to **Tabl
 * **Focus:** Breach analysis of the 4-hour target.
 * **Tech:** SQL (Temporal Logic), Tableau (Heatmaps).
 * **Key Insight:** Identified morning staffing bottlenecks in "Majors" department.
-* **[View Dashboard]((https://public.tableau.com/app/profile/aarti.omane/viz/AEPerformanceReport/AEPerformanceReport?publish=yes))**
+* **[View Dashboard](https://public.tableau.com/app/profile/aarti.omane/viz/AEPerformanceReport/AEPerformanceReport?publish=yes)**
 
 
 ![AE Performance Dashboard](https://github.com/user-attachments/assets/4f23afb3-4187-4ec5-a7f9-ebadcfc0b52d)
