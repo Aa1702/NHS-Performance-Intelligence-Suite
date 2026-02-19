@@ -1,6 +1,6 @@
 # Project 02: Outpatient "Did Not Attend" (DNA) Analysis
 
-![DNA Dashboard Preview](dna_dashboard.png) 
+![dna_dashboard png](https://github.com/user-attachments/assets/017e3357-ddc5-4ee2-b524-36ffbc1c7e6b)
 
 ### [🔴 Click Here to View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aarti.omane/viz/DNA_Analysis_dashboard/Dashboard1?publish=yes)
 
