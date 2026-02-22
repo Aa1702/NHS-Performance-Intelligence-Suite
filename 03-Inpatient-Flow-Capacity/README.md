@@ -1,6 +1,7 @@
 # Project 03: Inpatient Bed Capacity & Flow (DTOC)
 
-![Capacity Dashboard Preview]
+Capacity Dashboard Preview
+![Capacity_Dashboard](https://github.com/user-attachments/assets/ba984cf9-b2f0-4e73-8936-2ebfe8773d72)
 
 ### [🔴 Click Here to View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aarti.omane/viz/NHS_Inpatient_Capacity_Alert/InpatientCapacityDTOCDelayedTransferofCareAlert?publish=yes)
 
