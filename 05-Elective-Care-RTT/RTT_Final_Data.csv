@@ -1,0 +1,21 @@
+PatientID,Specialty,ReferralDate,IsClockStopped,WeeksWaiting,TARGET_STATUS
+501,Orthopaedics,2024-01-10,0,20,BREACH
+502,Orthopaedics,2024-05-15,0,2,Within Target
+503,Ophthalmology,2024-02-01,0,17,Within Target
+504,Ophthalmology,2024-05-20,0,1,Within Target
+505,Cardiology,2023-11-01,0,30,BREACH
+506,Cardiology,2024-04-10,0,7,Within Target
+507,Orthopaedics,2023-12-15,0,24,BREACH
+508,Gynaecology,2024-03-22,0,10,Within Target
+509,Gynaecology,2024-05-01,0,4,Within Target
+510,Ophthalmology,2023-10-20,0,32,BREACH
+511,Dermatology,2024-04-28,0,4,Within Target
+512,Dermatology,2024-01-05,0,21,BREACH
+513,Urology,2024-02-14,0,15,Within Target
+514,Urology,2024-05-10,0,3,Within Target
+515,Cardiology,2024-01-25,0,18,Within Target
+516,Orthopaedics,2024-03-05,0,12,Within Target
+517,Ophthalmology,2024-04-15,0,6,Within Target
+518,Gynaecology,2024-02-28,0,13,Within Target
+519,Dermatology,2023-11-15,0,28,BREACH
+520,Urology,2024-03-10,0,11,Within Target
