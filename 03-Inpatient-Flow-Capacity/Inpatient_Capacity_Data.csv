@@ -1,0 +1,9 @@
+BedID,Ward,PatientAge,AdmissionDate,ExpectedDischargeDate,ActualDischargeDate,MedicalClearance
+301,Acute Medical,78,2024-03-01,2024-03-05,NULL,Yes
+302,Acute Medical,65,2024-03-04,2024-03-10,NULL,No
+303,Surgical,45,2024-03-06,2024-03-08,2024-03-08,Yes
+304,Surgical,82,2024-02-25,2024-03-02,NULL,Yes
+305,Elderly Care,88,2024-02-20,2024-02-28,NULL,Yes
+306,Elderly Care,91,2024-03-05,2024-03-12,NULL,No
+307,Acute Medical,50,2024-03-07,2024-03-09,NULL,No
+308,Elderly Care,79,2024-02-22,2024-03-01,NULL,Yes
