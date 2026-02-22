@@ -1,5 +1,6 @@
 # Project 04: Workforce Optimization & Nursing Safety
 
+![Workforce_Dashboard](https://github.com/user-attachments/assets/a38bd979-ee2f-47ee-92cb-e78fd2cf7045)
 
 ### [🔴 Click Here to View Interactive Staffing Dashboard](https://public.tableau.com/app/profile/aarti.omane/viz/NHS_Staffing_Workforce_Optimization/NursingSafetyStaffingLevels?publish=yes)
 
