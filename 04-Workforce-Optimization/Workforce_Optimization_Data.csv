@@ -1,0 +1,7 @@
+ShiftID,ShiftDate,Ward,ShiftType,NursesOnDuty,PatientsOnWard,Patient_Per_Nurse,Safety_Status
+401,2024-03-01,Acute Medical,Day,4,28,7.0,SAFE
+402,2024-03-01,Acute Medical,Night,2,28,14.0,UNSAFE
+403,2024-03-01,Surgical,Day,5,30,6.0,SAFE
+404,2024-03-01,Surgical,Night,3,30,10.0,UNSAFE
+405,2024-03-02,Acute Medical,Day,3,29,9.66666666666667,UNSAFE
+406,2024-03-02,Acute Medical,Night,3,29,9.66666666666667,UNSAFE
