@@ -1,5 +1,7 @@
 # Project 05: NHS Referral to Treatment (RTT) Performance
 
+![RTT dashboard](https://github.com/user-attachments/assets/535cc613-4365-4acb-a06e-2b7582383951)
+
 ### [🔴 Click Here to View RTT Performance Dashboard](https://public.tableau.com/app/profile/aarti.omane/viz/NHSRTTPerformanceDashboard/Dashboard1?publish=yes)
 
 ## 🏥 Scenario
