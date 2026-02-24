@@ -5,7 +5,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-Data_Viz-E97627?style=for-the-badge&logo=tableau)
 
 ## 📌 1. Background and Overview
-The NHS operates within one of the most complex healthcare environments globally, where balancing patient demand with clinical capacity is a constant challenge. This suite was developed to simulate a high-pressure hospital environment, analysing over **100,000+ mock records** to ensure compliance with National Health Service safety targets and operational standards.
+The NHS operates within one of the most complex healthcare environments globally, where balancing patient demand with clinical capacity is a constant challenge. This suite was developed to simulate a high-pressure hospital environment, analysing ** mock records** to ensure compliance with National Health Service safety targets and operational standards.
 
 The primary goal of this intelligence suite is to transition from reactive reporting to **proactive operational management**. By integrating data from Emergency, Outpatient, Inpatient, and Workforce domains, this project provides a 360-degree view of hospital performance, identifying bottlenecks that directly impact patient care and financial sustainability.
 
